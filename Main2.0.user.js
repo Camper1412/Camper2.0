@@ -3,6 +3,7 @@
 // @namespace    token-viewer
 // @version      1.0
 // @description  Shows YOUR OWN Discord token on-screen. Dont share your token to anyone.
+// @author       Camper
 // @match        https://discord.com/*
 // @run-at       document-start
 // @grant        none
